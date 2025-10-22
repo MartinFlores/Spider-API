@@ -22,13 +22,13 @@ El núcleo del proyecto reside en el directorio `src/`:
 ## Probar
 
 - `Endpoint Publico`
-  https://planeacion.ahome.com.mx/rpc/stores
+  http://localhost/rpc/stores
 
 - `Endpoint Autenticado`
   --header 'x-user-role: ADMIN'
-  https://planeacion.ahome.com.mx/rpc/users
+  http://localhost/rpc/users
 
 - `Por Desarrollar`
-  https://planeacion.ahome.com.mx/rpc/stores?page=2
-  https://planeacion.ahome.com.mx/rpc/stores?page=2&search=caffenio
-  https://planeacion.ahome.com.mx/rpc/stores?page=2&category=3
+  http://localhost/rpc/stores?page=2
+  http://localhost/rpc/stores?page=2&search=caffenio
+  http://localhost/rpc/stores?page=2&category=3
