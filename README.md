@@ -8,7 +8,7 @@ Spider API es un framework de API RESTful ligero y modular construido en PHP. Ha
 
 - **Ligero y Rápido:** Sin dependencias innecesarias que ralenticen tu aplicación.
 - **Modular:** Organiza tu código en módulos independientes y reutilizables.
-- **Fácil de Empezar:** No requiere instalación de paquetes ni gestores de dependencias. ¡Solo clona y empieza a codificar!
+- **Fácil de Empezar:** No requiere instalación de paquetes ni gestores de dependencias. ¡Solo clona y empieza a programar!
 - **Escalable:** Diseñado para crecer junto con tu proyecto.
 
 ## 🚀 Empezando
