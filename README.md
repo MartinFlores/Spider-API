@@ -28,7 +28,9 @@ El núcleo del proyecto reside en el directorio `src/`:
   --header 'x-user-role: ADMIN'
   http://localhost/rpc/users
 
-- `Por Desarrollar`
+<!--
+  - `Por Desarrollar`
   http://localhost/rpc/stores?page=2
   http://localhost/rpc/stores?page=2&search=caffenio
   http://localhost/rpc/stores?page=2&category=3
+-->
