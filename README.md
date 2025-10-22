@@ -35,13 +35,13 @@ Puedes probar los endpoints fácilmente con herramientas como Postman o cURL.
 - **Endpoint Público de Ejemplo:**
 
   ```
-  GET http://localhost/rpc/stores
+  GET http://localhost/Spider-API/stores
   ```
 
 - **Endpoint Autenticado de Ejemplo:**
   Para acceder a este endpoint, necesitas enviar el header `x-user-role` con el valor `ADMIN`.
   ```
-  GET http://localhost/rpc/users
+  GET http://localhost/Spider-API/users
   Header: x-user-role: ADMIN
   ```
 
